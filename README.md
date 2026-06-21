@@ -31,7 +31,11 @@ Customer churn is the **#1 revenue killer** for telecom companies. This project 
 - Achieves **86% accuracy** with the best model
 - Provides **actionable business insights** for customer retention
 
-[![Accuracy-86%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/customer-churn-prediction) [![Precision-75%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/customer-churn-prediction) [![Recall-62%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/customer-churn-prediction) [![F1-Score-68%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/customer-churn-prediction) [![Dataset-5%2C000_records-blue?style=flat-square&labelColor=1a1a2e&color=0066ff)](https://github.com/basitali08/customer-churn-prediction)
+[![Accuracy](https://img.shields.io/badge/Accuracy-86%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/customer-churn-prediction)
+[![Precision](https://img.shields.io/badge/Precision-75%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/customer-churn-prediction)
+[![Recall](https://img.shields.io/badge/Recall-62%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/customer-churn-prediction)
+[![F1-Score](https://img.shields.io/badge/F1--Score-68%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/customer-churn-prediction)
+[![Dataset](https://img.shields.io/badge/Dataset-5%2C000_records-blue?style=flat-square&labelColor=1a1a2e&color=0066ff)](https://github.com/basitali08/customer-churn-prediction)
 
 ---
 
